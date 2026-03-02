@@ -1,1 +1,2 @@
-nova funcionalide
+nova funcionalidade
+
